@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Yahyaball/join-our-newsletter-master/refs/heads/main/design/Screenshot_9-8-2026_1399_yahyaball.github.io.jpeg)
 
 Join our newsletter page, which is responsive across all screens.
 
